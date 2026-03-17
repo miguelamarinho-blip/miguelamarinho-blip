@@ -2,15 +2,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Miguel%20Arcanjo-16%20anos-4B0082?style=for-the-badge" alt="Nome e Idade">
-  <img src="https://img.shields.io/badge/Estudante-T.I%20SENAI-red?style=for-the-badge" alt="Estudante de T.I SENAI">
+  <img src="https://img.shields.io/badge/Estudante-SESI%20/%20SENAI-red?style=for-the-badge" alt="Estudante SESI/SENAI">
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos e sou estudante de **Tecnologia da Informação** no SENAI. Estou focado em desenvolver minhas habilidades técnicas e construir uma base sólida na área de T.I.
+Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e também estou cursando Técnico em **Tecnologia da Informação** no SENAI. Estou focado em desenvolver minhas habilidades técnicas e construir uma base sólida na área de T.I.
 
-- 🎓 **Formação:** Técnico em T.I (em andamento) - SENAI
+- 🎓 **Educação:** SESI (Ensino Médio) / SENAI (Técnico em T.I em andamento)
 - 📧 **E-mail:** [miguel.a.marinho@edu.senai.br](mailto:miguel.a.marinho@edu.senai.br)
 - 💻 **Foco:** Desenvolvimento e Soluções Tecnológicas
 
@@ -23,12 +23,20 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos e sou estudante de **Tecnologia
   
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
+### 📊 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93czJscDRzMmxnbHV5NHpxbndzcjRrdHFsdXF5MnppajU0czFrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz9j7R6mGDR1L74Bko/giphy.gif" alt="Sabrina Carpenter Feliz" width="300" />
 </p>
