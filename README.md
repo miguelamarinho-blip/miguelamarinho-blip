@@ -17,13 +17,6 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e ta
 
 ---
 
-### 🎯 Minhas Metas
-- [ ] Dominar Programação Orientada a Objetos (POO) em Java
-- [ ] Finalizar os projetos práticos do SENAI
-- [ ] Explorar desenvolvimento Mobile ou Web
-
----
-
 ### 🛠 Habilidades e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -35,14 +28,16 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e ta
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 Estatísticas
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dark&hide_border=true" height="180em" />
 </p>
 
 ---
 
-### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+  <br>
+  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </p>
