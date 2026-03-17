@@ -9,11 +9,18 @@
 ---
 
 ### 🚀 Sobre mim
-Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e também estou cursando Técnico em **Tecnologia da Informação** no SENAI. Estou focado em desenvolver minhas habilidades técnicas e construir uma base sólida na área de T.I.
+Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e também estou cursando Técnico em **Tecnologia da Informação** no SENAI. 
 
-- 🎓 **Educação:** SESI (Ensino Médio) / SENAI (Técnico em T.I em andamento)
+- 🎓 **Educação:** SESI (Ensino Médio) / SENAI (Técnico em T.I)
 - 📧 **E-mail:** [miguel.a.marinho@edu.senai.br](mailto:miguel.a.marinho@edu.senai.br)
-- 💻 **Foco:** Desenvolvimento e Soluções Tecnológicas
+- 💻 **Foco:** Desenvolvimento Java e Lógica de Programação
+
+---
+
+### 🎯 Minhas Metas
+- [ ] Dominar Programação Orientada a Objetos (POO) em Java
+- [ ] Finalizar os projetos práticos do SENAI
+- [ ] Explorar desenvolvimento Mobile ou Web
 
 ---
 
@@ -21,12 +28,16 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e ta
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowgorithm-7FBA00?style=for-the-badge&logo=flow&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO-AQUI/SEU-USUARIO-AQUI/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
@@ -34,10 +45,4 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e ta
 ### 📊 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h6ZmxpY3I0ZzR3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVw12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz9j7R6mGDR1L74Bko/giphy.gif" width="300" />
 </p>
