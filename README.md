@@ -16,7 +16,19 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos e sou estudante de **Tecnologia
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🛠 Habilidades e Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowgorithm-7FBA00?style=for-the-badge&logo=flow&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+</p>
