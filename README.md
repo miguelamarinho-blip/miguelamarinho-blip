@@ -1,7 +1,7 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&center=true&vCenter=true&width=435&lines=Hey+man!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&center=true&vCenter=true&width=435&lines=Hey+man!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Miguel%20Arcanjo-16%20anos-4B0082?style=for-the-badge" alt="Nome e Idade">
+  <img src="https://img.shields.io/badge/Miguel%20Arcanjo-16%20anos-808080?style=for-the-badge" alt="Nome e Idade">
   <img src="https://img.shields.io/badge/Estudante-SESI%20/%20SENAI-red?style=for-the-badge" alt="Estudante SESI/SENAI">
 </p>
 
@@ -39,4 +39,4 @@ Olá! Eu sou o **Miguel Arcanjo**, tenho 16 anos. Sou estudante do **SESI** e ta
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93czJscDRzMmxnbHV5NHpxbndzcjRrdHFsdXF5MnppajU0czFrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vz9j7R6mGDR1L74Bko/giphy.gif" alt="Sabrina Carpenter Feliz" width="300" />
-</p>
+</p>>
