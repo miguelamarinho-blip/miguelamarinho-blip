@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nome-Miguel%20Arcanjo-808080?style=for-the-badge" alt="Nome">
-  <img src="https://img.shields.io/badge/Idade-16%20anos-808080?style=for-the-badge" alt="Idade">
+  <img src="https://img.shields.io/badge/Idade-17%20anos-808080?style=for-the-badge" alt="Idade">
   <img src="https://img.shields.io/badge/Instituição-SESI%20%2F%20SENAI-005b7f?style=for-the-badge" alt="Instituição">
 </p>
 
